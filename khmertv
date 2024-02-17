@@ -1,0 +1,53 @@
+#EXTM3U
+#PLAYLIST:KHMER TV
+
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Hang_Meas_HDTV.png", HangMeas HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w977310138_b1800000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Hang_Meas_HDTV.png", HangMeas RHM HDTV
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w692117426_b800000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="Channel 3" tvg-logo="https://khmertv.com/wp-content/uploads/2020/12/newlogo.png", KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://i.imgur.com/9wJe71I.png", Apsara TV11
+https://live.ams.com.kh/app/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/05/bayontv-logo-700x480.png", Bayon TV
+https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 6" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/05/bayontv-logo-700x480.png", BTV News
+https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 7" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/06/tv9hd-700x480.png", TV 9 HD
+https://stream.mekongtv.net/livectv9/ctv9_embed.stream/chunklist_w1930717195_tkbXR2c3RhcnR0aW1lPTAmbXR2ZW5kdGltZT0xNzA4MjYxOTUzJm10dmhhc2g9XzRzYkZlY3NQYXVOQUVjRDBLX3lVbHp5QjRWazlEVk1KbEJOVW9oc2JYWT0=.m3u8
+
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://i.imgur.com/ObtFGBW.png", PNN
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.imgur.com/oZPorvg.png", SEA TV
+https://live.kh.malimarcdn.com/live/seatv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 10" tvg-logo="https://i.imgur.com/iMZLyoX.png", TV5 Cambodia
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 11" tvg-logo="https://i.imgur.com/5hPxjcl.png", TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 12" tvg-logo="https://i.imgur.com/FYqvxUM.png", TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 13" tvg-logo="https://api.netlinkbroadcaster.com/uploads/netlink_9c548a0a4e.jpg", NetLink TV
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 tvg-name="Channel 14" tvg-logo="https://image.freshnewsasia.com/banner/web/logo_fron_web_2.jpg", Fresh News
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 15" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/06/towntv2023-700x480.png", Town TV
+https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png", CartoonNetwork
+http://89.254.128.5:22280/cartoon_network/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png", Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56171fafada51f8004c4b40f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=990&terminate=false&userId=
