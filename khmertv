@@ -47,7 +47,7 @@ http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 15" tvg-logo="https://play-lh.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg", WiKi TV
-http://206.189.93.160:1935/live/myStream_720p/chunklist_w1124605741.m3u8?mtvstarttime=0&mtvendtime=1708597422&mtvhash=W0VNZSJj0sgrFuAJU88xEnkXjoeI5xVbBCDo6YmeuIg%3D
+http://206.189.93.160:1935/live/myStream_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png", CartoonNetwork
 http://89.254.128.5:22280/cartoon_network/index.m3u8
