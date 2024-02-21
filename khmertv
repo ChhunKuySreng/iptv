@@ -19,16 +19,16 @@ http://203.80.165.14/stream/channelid/536374439?profile=pass
 #EXTINF:-1 tvg-name="Channel 6 CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg", CNC
 http://203.80.165.14/stream/channelid/966549443?profile=pass
 
-#EXTINF:-1 tvg-name="Channel 7 Bayon TV" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/05/bayontv-logo-700x480.png", Bayon TV
+#EXTINF:-1 tvg-name="Channel 7 Bayon TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest?cb=20191209085913", Bayon TV
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 8 BTV News" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/05/bayontv-logo-700x480.png", BTV News
+#EXTINF:-1 tvg-name="Channel 8 BTV News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257", BTV News
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 9 Apsara TV11" tvg-logo="https://i.imgur.com/9wJe71I.png", Apsara TV11
 https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 10 TV 9 HD" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/06/tv9hd-700x480.png", TV 9 HD
+#EXTINF:-1 tvg-name="Channel 10 TV 9 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest?cb=20191208065712", TV 9 HD
 https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 11 PNN" tvg-logo="https://i.imgur.com/ObtFGBW.png", PNN
@@ -46,7 +46,7 @@ http://203.80.165.14/stream/channelid/964045200?profile=passle=pass
 #EXTINF:-1 tvg-name="Channel 15 Fresh News" tvg-logo="https://image.freshnewsasia.com/banner/web/logo_fron_web_2.jpg", Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 16 Town TV" tvg-logo="https://aseaniptv.com/wp-content/uploads/2023/06/towntv2023-700x480.png", Town TV
+#EXTINF:-1 tvg-name="Channel 16 Town TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png", Town TV
 https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 17 KhmerTV" tvg-logo="https://khmertv.com/wp-content/uploads/2020/12/newlogo.png", KhmerTV
