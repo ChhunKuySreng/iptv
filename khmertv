@@ -79,7 +79,7 @@ http://203.80.165.14/stream/channelid/1601899558?profile=pass
 #EXTINF:-1 tvg-name="Channel 26 PPCTV 9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/PPCTV_drama_9.png/revision/latest?cb=20191210054252", PPCTV 9
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
 
-#EXTINF:-1 tvg-name="Channel 27 PPCTV 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/PPCTV_drama_9.png/revision/latest?cb=20191210054252", PPCTV 10
+#EXTINF:-1 tvg-name="Channel 27 PPCTV 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PPCTV_drama_10.png/revision/latest?cb=20191210054249", PPCTV 10
 http://203.80.165.14/stream/channelid/909385263?profile=pass
 
 #EXTINF:-1 tvg-name="Channel 28 CartoonNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png", CartoonNetwork
