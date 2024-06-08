@@ -63,25 +63,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004
 
 #EXTINF:-1 tvg-name="Channel 21 CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png", CNN
 https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
-
-<!-- #EXTINF:-1 tvg-name="Channel 15 TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059", TV3 -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 20 WiKi TV" tvg-logo="https://play-lh.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg", WiKi TV -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 22 AKCTV 21" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv21.png", AKCTV 21 -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 23 AKCTV 23" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv23.png", AKCTV 23 -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 24 AKCTV 25" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv25.png", AKCTV 25 -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 25 AKCTV 26" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv26.png", AKCTV 26 -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 26 PPCTV 9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/PPCTV_drama_9.png/revision/latest?cb=20191210054252", PPCTV 9 -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 27 PPCTV 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/PPCTV_drama_10.png/revision/latest?cb=20191210054249", PPCTV 10 -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 28 CartoonNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png", CartoonNetwork -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 29 CartoonNetwork True Visions" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png", CartoonNetwork True Visions -->
-
-<!-- #EXTINF:-1 tvg-name="Channel 31 HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png", HBO -->
