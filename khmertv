@@ -1,10 +1,10 @@
 #EXTM3U
 #PLAYLIST:KHMER TV
 
-#EXTINF:-1 tvg-name="Channel 1 HangMeas HDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Hang_Meas_HDTV.png", HangMeas HDTV
+#EXTINF:-1 tvg-name="Channel 1 HangMeas HDTV" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/5/55/HMHDTV.webp", HangMeas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w977310138_b1800000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="Channel 2 HangMeas RHM HDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Hang_Meas_HDTV.png", HangMeas RHM HDTV
+#EXTINF:-1 tvg-name="Channel 2 HangMeas RHM HDTV" tvg-logo="https://archive.org/download/KhmerTv/rhm.png", HangMeas RHM HDTV
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w692117426_b800000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="Channel 3 TVK" tvg-logo="https://i.imgur.com/5hPxjcl.png", TVK
@@ -63,3 +63,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004
 
 #EXTINF:-1 tvg-name="Channel 21 CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png", CNN
 https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
+
+#EXTINF:-1 tvg-name="Channel 22 Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
