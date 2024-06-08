@@ -66,3 +66,24 @@ https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 
 #EXTINF:-1 tvg-name="Channel 22 Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-name="Channel 23 TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png", TV3
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24 MOI NFO News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Emblem_of_MOI_%28Cambodia%29.svg/200px-Emblem_of_MOI_%28Cambodia%29.svg.png", MOI NFO News
+https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8
+
+#EXTINF:-1 tvg-name="Channel 25 Khmer E-Learning" tvg-logo="http://sdnbvc.digimat.in/images/frontpage/2-elearning.png", Khmer E-Learning
+http://217.15.167.95:5080/LiveApp/streams/etv_live.m3u8
+
+#EXTINF:-1 tvg-name="Channel 26 Cartoon Metfone" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/18/1708082997435/fdcf1f1a18d7_640_360.png", Cartoon Metfone
+https://live-evg3.tv360.metfone.com.kh/live/metfonekids.m3u8
+
+#EXTINF:-1 tvg-name="Channel 27 Film Metfone" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/15/1708072464939/777718d546a3_640_360.png", Film Metfone
+https://live-evg3.tv360.metfone.com.kh/live/metfonetv.m3u8
+
+#EXTINF:-1 tvg-name="Channel 28 Thai Movie The Con-Heartist" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Gdh.svg", Thai Movie The Con-Heartist
+https://vod-evg4.tv360.metfone.com.kh/vtc-video/2024/02/11/22/6134a724/6134a724-90ff-49f6-ab91-006a72980d0f_5_.m3u8
+
+#EXTINF:-1 tvg-name="Channel 29 Thai Movie Classic Again" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT7XF3o38YIvxREhobC_kGlr8BEpnsA8YKErs4v=s900-c-k-c0x00ffffff-no-rj", Thai Movie Classic Again
+https://vod-evg4.tv360.metfone.com.kh/vtc-video/2024/02/11/22/6134a724/6134a724-90ff-49f6-ab91-006a72980d0f_5_.m3u8
