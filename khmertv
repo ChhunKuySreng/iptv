@@ -14,40 +14,40 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 5 CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest?cb=20220212080929", CTN
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/4
+http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 6 MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802", MYTV
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/6
+http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 7 CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg", CNC
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/5
+http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 8 Bayon TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest?cb=20191209085913", Bayon TV
-https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel 9 BTV News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257", BTV News
-https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel 10 Apsara TV11" tvg-logo="https://i.imgur.com/9wJe71I.png", Apsara TV11
-https://live.kh.malimarcdn.com/live/apsara.stream/playlist.m3u8
+https://live.ams.com.kh/app/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 11 TV 9 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest?cb=20191208065712", TV 9 HD
-https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel 12 PNN" tvg-logo="https://i.imgur.com/ObtFGBW.png", PNN
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel 13 SEA TV" tvg-logo="https://i.imgur.com/oZPorvg.png", SEA TV
-https://live.kh.malimarcdn.com/live/seatv.stream/chunklist.m3u8
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-name="Channel 14 TV5 Cambodia" tvg-logo="https://i.imgur.com/iMZLyoX.png", TV5 Cambodia
-https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 
 #EXTINF:-1 tvg-name="Channel 15 Fresh News" tvg-logo="https://image.freshnewsasia.com/banner/web/logo_fron_web_2.jpg", Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 16 Town TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png", Town TV
-https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel 17 KhmerTV" tvg-logo="https://khmertv.com/wp-content/uploads/2020/12/newlogo.png", KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
@@ -65,10 +65,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004
 https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 
 #EXTINF:-1 tvg-name="Channel 22 Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+https://list.iptvcat.com/my_list/s/bd7d295cbc106d36491e59f262f3efb5.m3u8
 
 #EXTINF:-1 tvg-name="Channel 23 TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png", TV3
-https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/chunklist_w1438934851.m3u8
 
 #EXTINF:-1 tvg-name="Channel 24 MOI NFO News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Emblem_of_MOI_%28Cambodia%29.svg/200px-Emblem_of_MOI_%28Cambodia%29.svg.png", MOI NFO News
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8
@@ -76,14 +76,5 @@ https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8
 #EXTINF:-1 tvg-name="Channel 25 Khmer E-Learning" tvg-logo="http://sdnbvc.digimat.in/images/frontpage/2-elearning.png", Khmer E-Learning
 http://217.15.167.95:5080/LiveApp/streams/etv_live.m3u8
 
-#EXTINF:-1 tvg-name="Channel 26 Cartoon Metfone" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/18/1708082997435/fdcf1f1a18d7_640_360.png", Cartoon Metfone
-https://live-evg3.tv360.metfone.com.kh/live/metfonekids.m3u8
-
-#EXTINF:-1 tvg-name="Channel 27 Film Metfone" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/15/1708072464939/777718d546a3_640_360.png", Film Metfone
-https://live-evg3.tv360.metfone.com.kh/live/metfonetv.m3u8
-
-#EXTINF:-1 tvg-name="Channel 28 Thai Movie The Con-Heartist" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Gdh.svg", Thai Movie The Con-Heartist
-https://vod-evg4.tv360.metfone.com.kh/vtc-video/2024/02/11/22/6134a724/6134a724-90ff-49f6-ab91-006a72980d0f_5_.m3u8
-
-#EXTINF:-1 tvg-name="Channel 29 Thai Movie Classic Again" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZT7XF3o38YIvxREhobC_kGlr8BEpnsA8YKErs4v=s900-c-k-c0x00ffffff-no-rj", Thai Movie Classic Again
-https://vod-evg4.tv360.metfone.com.kh/vtc-video/2024/02/11/22/9b3f1cb3/9b3f1cb3-28ef-4f45-b4a2-61f7f3bdcd1d_5_.m3u8
+#EXTINF:-1 tvg-name="Channel 26 CTV8" tvg-logo="https://i.imgur.com/yrdr4Po.png", Thai Movie Classic Again
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
