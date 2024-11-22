@@ -13,10 +13,10 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 4 TVK 2" tvg-logo="https://i.imgur.com/FYqvxUM.png", TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 5 CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest?cb=20220212080929", CTN
+#EXTINF:-1 tvg-name="Channel 5 CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png", CTN
 http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 6 MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802", MYTV
+#EXTINF:-1 tvg-name="Channel 6 MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/km/f/f0/My-tv.png", MYTV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 7 CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg", CNC
@@ -31,8 +31,8 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 10 Apsara TV11" tvg-logo="https://i.imgur.com/9wJe71I.png", Apsara TV11
 https://live.ams.com.kh/app/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 11 TV 9 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest?cb=20191208065712", TV 9 HD
-
+#EXTINF:-1 tvg-name="Channel 11 TV 9 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png", TV 9 HD
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 
 #EXTINF:-1 tvg-name="Channel 12 PNN" tvg-logo="https://i.imgur.com/ObtFGBW.png", PNN
 
@@ -41,7 +41,7 @@ https://live.ams.com.kh/app/stream/playlist.m3u8
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-name="Channel 14 TV5 Cambodia" tvg-logo="https://i.imgur.com/iMZLyoX.png", TV5 Cambodia
-https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel 15 Fresh News" tvg-logo="https://image.freshnewsasia.com/banner/web/logo_fron_web_2.jpg", Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
@@ -61,11 +61,11 @@ http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-name="Channel 20 Pluto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png", Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56171fafada51f8004c4b40f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=990&terminate=false&userId=
 
-#EXTINF:-1 tvg-name="Channel 21 CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20230308T021713SQUARE.png_20230308021714.png", CNN
-
+#EXTINF:-1 tvg-name="Channel 21 Mr.Bean (24h)" tvg-logo="https://yt3.ggpht.com/al5a-TjybDtOQrBzpxpLkrG9uMTWpofw43Al81L5I9szAzZ8IutjqVVO8pH_RXb6CRim9lHMMw=s400-c-k-c0x00ffffff-no-rj", Mr.Bean (24h)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732302629/ei/xYJAZ6TDAdOCjuMPm6_CoQM/ip/43.245.32.5/id/uTMc48XmjrA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-uxajvuxji-2oi6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/kh/siu/1/spc/qtApAUQoEfmuXK2tibhMmFbeUme1KLCJRs8yGHc5rsr831_g2LUM734qcD3s4LZZSz-WwjOohgFx/vprv/1/playlist_type/DVR/initcwndbps/795000/met/1732281061,/mh/-W/mm/44/mn/sn-uxajvuxji-2oi6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594/mt/1732280679/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,siu,spc,vprv,playlist_type/sig/AJfQdSswRQIgOWMqQiXmnNnDLxVa5s8H-ngvAq_26fn_Euk_2aJQoQECIQCQL74QQNA8ZlFdTSQozIsZ6NNlHv7KhSB9a6QI3CCGrA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIgabpOxcPuonmlU3EVckxWoe9cSbJn2OcKsP9lzq6alswCIQCsu1gLAL4Vwa8bTguseXVhnxQNZIwjUpVEr-L6sGZkQA%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 22 Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-https://84.17.40.25/CARTOON_NETWORK/index.m3u8
+http://84.17.40.25/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 23 TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png", TV3
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/chunklist_w1438934851.m3u8
@@ -76,5 +76,23 @@ https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8
 #EXTINF:-1 tvg-name="Channel 25 Khmer E-Learning" tvg-logo="http://sdnbvc.digimat.in/images/frontpage/2-elearning.png", Khmer E-Learning
 http://217.15.167.95:5080/LiveApp/streams/etv_live.m3u8
 
-#EXTINF:-1 tvg-name="Channel 26 CTV8" tvg-logo="https://i.imgur.com/yrdr4Po.png", Thai Movie Classic Again
+#EXTINF:-1 tvg-name="Channel 26 CTV8" tvg-logo="https://i.imgur.com/yrdr4Po.png", CTV8
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Channel 27 Metfone Cartoon 360" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/18/1708082997435/fdcf1f1a18d7_640_360.png", Cartoon 360
+https://live-evg3.tv360.metfone.com.kh/live-cartoon/cartoon_hd.m3u8
+
+#EXTINF:-1 tvg-name="Channel 28 Metfone Film TV 360" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/16/15/1708072464939/777718d546a3_640_360.png", Metfone Film TV 360
+https://live-evg3.tv360.metfone.com.kh/live-film/film_hd.m3u8
+
+#EXTINF:-1 tvg-name="Channel 29 Metfone PSNTV" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/09/02/08/1725241521516/c974accb27d2_640_360.jpg", Metfone PSNTV
+https://live-evg13.tv360.metfone.com.kh/LiveApp/streams/psntv.m3u8
+
+#EXTINF:-1 tvg-name="Channel 30 Metfone Drama TV360" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/09/16/11/1726459315808/71862de03747_640_360.jpg", Metfone Drama TV360
+https://live-evg14.tv360.metfone.com.kh/live/camtv1/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Channel 31 Metfone ABC Cambodia" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/08/12/14/1723449253598/5ad4ad185c94_640_360.jpg", Metfone ABC Cambodia
+https://live-evg12.tv360.metfone.com.kh//live/streams/live_2.m3u8
+
+#EXTINF:-1 tvg-name="Channel 32 Metfone GenZ TV360" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/09/16/12/1726462947279/aa939205064f_640_360.jpg", Metfone GenZ TV360
+https://live-evg14.tv360.metfone.com.kh/live/camtv2/1080p.m3u8
