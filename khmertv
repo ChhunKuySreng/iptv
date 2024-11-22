@@ -22,10 +22,10 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 #EXTINF:-1 tvg-name="Channel 7 CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg", CNC
 http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Channel 8 Bayon TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest?cb=20191209085913", Bayon TV
+#EXTINF:-1 tvg-name="Channel 8 Bayon TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png", Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/chunklist_w1645315215.m3u8
 
-#EXTINF:-1 tvg-name="Channel 9 BTV News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257", BTV News
+#EXTINF:-1 tvg-name="Channel 9 BTV News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png", BTV News
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel 10 Apsara TV11" tvg-logo="https://i.imgur.com/9wJe71I.png", Apsara TV11
@@ -68,7 +68,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732302629/ei/
 http://84.17.40.25/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name="Channel 23 TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png", TV3
-https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/chunklist_w1438934851.m3u8
+
 
 #EXTINF:-1 tvg-name="Channel 24 MOI NFO News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Emblem_of_MOI_%28Cambodia%29.svg/200px-Emblem_of_MOI_%28Cambodia%29.svg.png", MOI NFO News
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8
